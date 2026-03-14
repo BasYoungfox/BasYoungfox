@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm a Web3 developer focused on building on the Solana blockchain. I enjoy working with smart contracts, decentralized applications, and exploring new ideas in the crypto ecosystem.<br><br>I like turning complex blockchain concepts into practical tools and experimenting with new technologies in the Web3 space. Currently improving my skills in Solana development, smart contract design, and scalable dApp architecture.<br>
+<br>I'm a Web3 developer focused on building on the Solana blockchain. I enjoy working with smart contracts, decentralized applications, and exploring new ideas in the crypto ecosystem.<br><br>I like turning complex blockchain concepts into practical tools and experimenting with new technologies in the Web3 space. Currently improving my skills in Solana development, smart contract design, and scalable dApp architecture.<br>
 
 
 # 💻 Tech Stack:
